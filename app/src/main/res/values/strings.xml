@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pomelo Pickup</string>
+
+    <string name="pomelo_pickup">Pomelo Pickup</string>
+    <string name="menu_location">Location</string>
+
+    <string name="pickup_empty_distance">- km</string>
+    <string name="pickup_distance">%1$.2f Km</string>
+</resources>

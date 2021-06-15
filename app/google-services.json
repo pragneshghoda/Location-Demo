@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993024276794",
+    "project_id": "pomelo-test-9ed8a",
+    "storage_bucket": "pomelo-test-9ed8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993024276794:android:5de77131a41a3a97c37803",
+        "android_client_info": {
+          "package_name": "com.android.pomelotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993024276794-4b7dnvhtr396275f8f033q6ohscr8f1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvEXx4fIp5YL3Tf3y-HSn6uKmhGJ3A2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993024276794-4b7dnvhtr396275f8f033q6ohscr8f1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

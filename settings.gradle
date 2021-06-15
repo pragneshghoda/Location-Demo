@@ -1,0 +1,2 @@
+rootProject.name = "Pomelo Test"
+include ':app'

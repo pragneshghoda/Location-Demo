@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/pickupLocationFragment">
+    <fragment
+        android:id="@+id/pickupLocationFragment"
+        android:name="com.android.pomelotest.pickup_locations.PickupLocationFragment"
+        android:label="@string/pomelo_pickup"
+        tools:layout="@layout/fragment_pickup_locations">
+    </fragment>
+</navigation>
